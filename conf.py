@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ads1'
+project = 'Advanced Serpent'
 copyright = '2018, ads'
 author = 'ads'
 
