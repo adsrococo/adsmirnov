@@ -1,7 +1,4 @@
-.. ads1 documentation master file, created by
-   sphinx-quickstart on Wed Nov 28 16:35:48 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+This is my first project!
 
 Welcome to ads1's documentation!
 ================================
